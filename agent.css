@@ -1,0 +1,73 @@
+body {
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#CIAWP {
+	background-image: url('secretAgent.jpg');
+	background-position: top;
+	background-size: cover;
+	width:100%;
+	height:300px;
+}
+.row {
+	margin-right: 0;
+}
+video {
+	width: 100%;
+	height: 100%;
+}
+#mainBox {
+	color:black;
+	text-align: center;
+	background-color: lightgrey;
+}
+#H5-1 {
+padding:10px;
+}
+
+button {
+	margin: 10px;
+}
+span {
+	font-size:25px;
+}
+.impText {
+	color: red;
+    font-weight: 700;
+}
+#suspectDesc {
+	overflow: auto;
+	height:115px;
+	width:90%;
+	margin: auto;
+}
+#files {
+	padding:0px;
+	margin:0px;
+	text-align: center;
+	color:white;
+	display: none;
+}
+.file {
+	padding:0px;
+	margin:auto;
+}
+.title {
+	color: grey;
+    font-size: 18px;
+}
+footer {
+	color:black;
+	font-weight: 700;
+	position: sticky;
+	bottom: 0px;
+	font-size:12px;
+	text-align: center;
+	background: lightgrey;
+	padding:10px;
+}
+#textBox {
+font-family: 'Croissant One';
+color:darkred;
+}
